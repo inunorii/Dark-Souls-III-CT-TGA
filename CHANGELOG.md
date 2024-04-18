@@ -1,5 +1,7 @@
 # Changelog
 ## [Unreleased]
+### Changed
+ - Move World Flags into Deprecated unter Event Flags
 ### Fixed
  - EquipItem
 
