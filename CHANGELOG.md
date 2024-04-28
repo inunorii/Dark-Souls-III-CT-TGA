@@ -4,6 +4,7 @@
  - Move World Flags into Deprecated unter Event Flags
 ### Fixed
  - EquipItem
+ - Restored old AOBs for Hero -> Animation -> Scripts, making the scripts usable again
 
 ## [v3.4.0] - 2024-03-06
 ### Added
