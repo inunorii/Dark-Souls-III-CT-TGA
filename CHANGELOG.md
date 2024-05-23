@@ -7,6 +7,9 @@
  - Restored old AOBs for Hero -> Animation -> Scripts, making the scripts usable again
  - Weapon Art Effect helper
  - Restored old version of Global Speed
+ - Extended blocklist
+### Removed
+ - Custom blocklist
 
 ## [v3.4.0] - 2024-03-06
 ### Added
