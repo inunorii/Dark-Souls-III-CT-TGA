@@ -19,7 +19,7 @@ If it doesn't work, try this [alternative invite](https://discord.gg/2RTW6BFgeX)
 
 ### Requirements
 
-Cheat Engine: [7.4 or newer](https://github.com/cheat-engine/cheat-engine/releases)  
+Cheat Engine: [7.4 or newer](https://github.com/cheat-engine/cheat-engine/releases/7.4)  
 Game: App ver. 1.15.2
 
 ## How to use
@@ -30,7 +30,8 @@ This table is not meant to be used online and you will most likely be banned if 
 
 ### Cheat Table (Windows)
 
-1. Download and install Cheat Engine either from [Github](https://github.com/cheat-engine/cheat-engine/releases) or from its [website](https://cheatengine.org/)
+1. Download and install Cheat Engine either from [Github](https://github.com/cheat-engine/cheat-engine/releases) or from its [website](https://cheatengine.org/)  
+  Use the official installer. Do not try to compile it yourself from source unless you know what you're doing
 2. Download the [Cheat Table](https://github.com/The-Grand-Archives/Dark-Souls-III-CT-TGA/releases)
 3. Unpack the .CT file anywhere that *isn't a Windows protected folder*, a recommendation would be your **My Cheat Tables** folder (e.g. `%USERPROFILE%\Documents\My Cheat Tables`). The default downloads folder is protected and potentially causes problems with one of the features in the table.
 4. Run the game via Steam
@@ -42,7 +43,7 @@ This table is not meant to be used online and you will most likely be banned if 
 I expect you to already have Steam, Wine, Proton, and the game installed
 
 1. Launch the game at least once via Steam to have your wine prefix set up
-2. Install [protonhax](https://github.com/jcnils/protonhax) (On Arch you should grab [protonhax-git](https://aur.archlinux.org/packages/protonhax-git))
+2. Install [protonhax](https://github.com/jcnils/protonhax)
 3. Download and install the **Windows** version of Cheat Engine from [Github](https://github.com/cheat-engine/cheat-engine/releases) or from its [website](https://cheatengine.org/) using **Wine**
 4. Download the [Cheat Table](https://github.com/The-Grand-Archives/Dark-Souls-III-CT-TGA/releases)
 5. Unpack the .CT file anywhere, a recommendation would be somewhere you can easily find within the wine prefix created for the game (e.g. `~/.steam/steam/steamapps/compatdata/374320/pfx/drive_c/`)
